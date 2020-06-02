@@ -1,0 +1,33 @@
+{
+    "shipping_order": {
+        "imported_id": "123123",
+        "order_price": "100",
+        "n_packages": "1",
+        "content_description": "Prendas de vestir",
+        "type": "delivery",
+        "weight": "",
+        "volume": "1"
+    },
+    "shipping_destination": {
+        "customer": {
+            "name": "Jonh Doe",
+            "phone": "569123456789",
+            "email": "correo@mail.com"
+        },
+        "delivery_address": {
+            "home_address": {
+                "place": "Providencia",
+                "full_address": "Luis Thayer ojeda 0127",
+                "information": ""
+            }
+        }
+    },
+    "shipping_origin": {
+        "warehouse_code": "cod_bod"
+    },
+    "carrier": {
+        "carrier_code": "CCH",
+        "carrier_service": "normal",
+        "tracking_number": ""
+    }
+}
